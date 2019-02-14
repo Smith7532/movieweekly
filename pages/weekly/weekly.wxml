@@ -1,0 +1,6 @@
+<view class='container'>
+  <text>本周推荐</text>
+  <image src='https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1550123589460&di=ab56480397011adf40644246d0e784be&imgtype=0&src=http%3A%2F%2Fi5.hexunimg.cn%2F2016-02-29%2F182477377.png'></image>
+  <text>教父</text>
+  <text>点评：最精彩的剧本，最真实的黑帮电影。</text>
+</view>

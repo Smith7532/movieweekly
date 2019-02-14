@@ -1,3 +1,33 @@
 {
-  "pages":["pages/about/about"]
+  "pages":
+  [
+  "pages/about/about",
+  "pages/weekly/weekly"
+  ],
+  "tabBar": 
+  {
+    "list":
+    [
+      {
+      "pagePath": "pages/weekly/weekly",
+      "text": "每周推荐",
+      "iconPath": "image/icons/weekly.png",
+      "selectedIconPath": "image/icons/weekly-selected.png"
+      },
+      {
+      "pagePath": "pages/about/about",
+      "text": "关于",
+      "iconPath": "image/icons/about.png",
+      "selectedIconPath": "image/icons/about-selected.png" 
+      }
+    ],
+    "color": "#000",
+    "selectedColor": "#1296db"
+  },
+  "window": {
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "树洞水饺",
+    "enablePullDownRefresh": true
+  }
 }

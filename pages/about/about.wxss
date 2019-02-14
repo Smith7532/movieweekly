@@ -1,9 +1,13 @@
-.container{
-  background-color:#eee;
-  height: 100vh;
+.about-banner{
+  width: 375rpx;
+  height: 375rpx;
+  border-radius: 50%;
+}
 
-  display: flex;
-  flex-direction: column;
-  justify-content: space-around;
-  align-items: center;
+.nav-default{
+  color: blue;
+}
+
+.nav-hover{
+  color: red;
 }
