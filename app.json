@@ -1,24 +1,22 @@
 {
-  "pages":
-  [
-  "pages/weekly/weekly",
-  "pages/about/about"
+  "pages": [
+    "pages/weekly/weekly",
+    "pages/about/about",
+    "pages/detail/detail"
   ],
-  "tabBar": 
-  {
-    "list":
-    [
+  "tabBar": {
+    "list": [
       {
-      "pagePath": "pages/weekly/weekly",
-      "text": "每周推荐",
-      "iconPath": "image/icons/weekly.png",
-      "selectedIconPath": "image/icons/weekly-selected.png"
+        "pagePath": "pages/weekly/weekly",
+        "text": "每周推荐",
+        "iconPath": "image/icons/weekly.png",
+        "selectedIconPath": "image/icons/weekly-selected.png"
       },
       {
-      "pagePath": "pages/about/about",
-      "text": "关于",
-      "iconPath": "image/icons/about.png",
-      "selectedIconPath": "image/icons/about-selected.png" 
+        "pagePath": "pages/about/about",
+        "text": "关于",
+        "iconPath": "image/icons/about.png",
+        "selectedIconPath": "image/icons/about-selected.png"
       }
     ],
     "color": "#000",
