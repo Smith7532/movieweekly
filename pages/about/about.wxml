@@ -1,13 +1,13 @@
 <view class='container'>
   <image class='about-banner'  src="http://image11.m1905.cn/uploadfile/2013/0517/20130517010623546.jpg"></image>
-  <text style='font-weight: bold; font-size:60rpx'>鐢靛奖鍛ㄥ懆鐪�</text>
+  <text style='font-weight: bold; font-size:60rpx'>电影周周看</text>
 
   <view>
-    <text >鎴�</text>
-    <navigator style='display: inline' url='/pages/weekly/weekly' open-type='switchTab' hover-class='nav-hover' class='nav-default'>姣忓懆鎺ㄨ崘</navigator>
-    <text >涓€閮ㄥソ鐗�</text>
+    <text >我</text>
+    <navigator style='display: inline' url='/pages/weekly/weekly' open-type='switchTab' hover-class='nav-hover' class='nav-default'>每周推荐</navigator>
+    <text >一部好片</text>
   </view>
 
-  <text >鎴戠殑寰�鍗氾細weibo.com/...</text>
+  <text >我的微博：weibo.com/...</text>
 
 </view>
