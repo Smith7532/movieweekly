@@ -1,14 +1,13 @@
 {
   "pages": [
-    "pages/weekly/weekly",
-    "pages/about/about",
-    "pages/detail/detail"
+    "pages/home/home",
+    "pages/about/about"
   ],
   "tabBar": {
     "list": [
       {
-        "pagePath": "pages/weekly/weekly",
-        "text": "每周推荐",
+        "pagePath": "pages/home/home",
+        "text": "首页",
         "iconPath": "image/icons/weekly.png",
         "selectedIconPath": "image/icons/weekly-selected.png"
       },
