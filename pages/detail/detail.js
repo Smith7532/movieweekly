@@ -15,19 +15,24 @@ Page({
     this.setData({
       mid: options.id
     })
-
+    var that=this
     wx.request({
-      url: '',
+      url: 'https://originalzxq.top/kod/data/User/admin/home/test.json',
+
       method: "GET",
       data: {
-        x: 1, y: 2
+       
       },
       header: {
-
+      
       },
 
       success: function (res) {
         console.log(res)
+
+        that.setData({
+          movie: res.data
+        })
       },
       fail: function () {
 
