@@ -17,7 +17,7 @@ Page({
     })
     var that = this
     wx.request({
-      url: "https://originalzxq.top/kod/data/User/admin/home/" + options.id + ".json",
+      url: "https://originalzxq.top/movieweekly/" + options.id + ".json",
 
       method: "GET",
       data: {
