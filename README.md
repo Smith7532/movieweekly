@@ -8,10 +8,10 @@ here is the sample:
 my list:
 - [x] exercise
 - [x] main idea of Boya thesis
+- [x] homework of electro-hydraulic servo
 ***
-- [ ] four experimental reports
+- [ ] 5th experimental reports
 - [ ] homework of ANSYS
-- [ ] homework of electro-hydraulic servo
 - [ ] your plan of master enterance exam
 - [ ] the target of master enterance exam
 - [ ] review material of master enterance exam
@@ -19,3 +19,4 @@ my list:
 - [ ] fixture design
 - [ ] Boya thesis
 - [ ] Mechatronics thesis
+- [ ] 4月主题党日PPT
